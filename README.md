@@ -1,16 +1,50 @@
-# 🚧 README em construção 🚧
+# Talker Manager
+Projeto da [Trybe](https://www.betrybe.com/) - Bloco 22 - API para gestão de palestrantes feita em Node.js.
 
-<!-- Olá, Tryber!
+## 💻 Projeto
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Aplicação de cadastro de talkers (palestrantes) em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações.
 
-É essencial que você preencha esse documento por conta própria, ok?
+## 🚀 Tecnologias
+> Este projeto foi desenvolvido com as seguintes tecnologias:
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+- Node.js
+- Docker
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## 📌 Habilidades
 
--->
+> Neste projeto, desenvolvi as seguintes habilidades:
+
+- Desenvolver uma API de um CRUD (Create, Read, Update e Delete);
+- Desenvolver endpoints para ler e escrever em um arquivo utilizando o módulo `fs`.
+
+## ⬇️ Instalando dependências
+
+```bash
+npm install
+``` 
+
+## ⚡ Executando a aplicação
+
+```bash
+npm start
+``` 
+
+## 🧪 Executando os testes
+
+```bash
+npm test
+```
+
+## 💬 Contatos
+
+<div align="center" style="display: inline_block">
+  <a href="https://www.linkedin.com/in/lucas-da-cunha-moreti/" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:lucasdacunha00@gmail.com"><img height="28rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<!-- ## 📄 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br> -->
