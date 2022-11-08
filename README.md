@@ -1,5 +1,5 @@
 # Talker Manager
-API para gestão de palestrantes feita em Node.js.
+> API para gestão de palestrantes feita em Node.js.
 
 ## 💻 Projeto
 
